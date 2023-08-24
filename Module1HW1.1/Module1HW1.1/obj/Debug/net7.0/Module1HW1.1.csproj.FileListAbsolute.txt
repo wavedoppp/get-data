@@ -1,0 +1,15 @@
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\bin\Debug\net7.0\Module1HW1.1.exe
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\bin\Debug\net7.0\Module1HW1.1.deps.json
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\bin\Debug\net7.0\Module1HW1.1.runtimeconfig.json
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\bin\Debug\net7.0\Module1HW1.1.dll
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\bin\Debug\net7.0\Module1HW1.1.pdb
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.csproj.AssemblyReference.cache
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.AssemblyInfoInputs.cache
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.AssemblyInfo.cs
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.csproj.CoreCompileInputs.cache
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.dll
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\refint\Module1HW1.1.dll
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.pdb
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\Module1HW1.1.genruntimeconfig.cache
+D:\C#\Progects\Module1HW1.1\Module1HW1.1\obj\Debug\net7.0\ref\Module1HW1.1.dll
